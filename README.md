@@ -1,4 +1,4 @@
-# Stock-Market-Dashboard---Python-to-Tableau
+# Stock-Market-Dashboard-Python-to-Tableau
 
 This repository contains a stock market dashboard created using Python and Tableau. The project demonstrates an end-to-end process of data manipulation and interactive visualization.
 
